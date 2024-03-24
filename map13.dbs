@@ -1,0 +1,30 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "Doom64.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP13
+	{
+		
+		resources
+		{
+		}
+		
+		
+		grid
+		{
+			backscalex = 100;
+			background = "";
+			backoffsety = 0;
+			backoffsetx = 0;
+			gridsize = 32;
+			backscaley = 100;
+			backsource = 0;
+		}
+		
+	}
+	
+}
+
